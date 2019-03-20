@@ -4,6 +4,9 @@
 
 [中文](https://github.com/tianyazc/gaping/blob/master/README-CN.md)
 
+![]( http://img.chulinx.xyz/termtosvg_wvabfoi8.svg)
+
+
 ## Install ↯↯↯
 ### Compile and install
   - Golang 1.11 or Golang 1.12

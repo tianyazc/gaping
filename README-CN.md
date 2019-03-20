@@ -4,6 +4,9 @@
 
 [English](https://github.com/tianyazc/gaping)
 
+![]( http://img.chulinx.xyz/termtosvg_wvabfoi8.svg)
+
+
 ## 安装 ↯↯↯
 ### 编译安装
   - Golang 1.11 or Golang 1.12
