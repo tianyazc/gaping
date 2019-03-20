@@ -1,20 +1,20 @@
-# Gaping ---  A remote host port stability test tool inspired by paping
+# Gaping ---  一个golang实现的测试远程主机端口稳定性的工具，灵感来自paping
 
 [![Build Status](https://travis-ci.org/tianyazc/gaping.svg?branch=master)](https://github.com/tianyazc/gaping)
 
-[中文文档](https://github.com/tianyazc/gaping/README-CN.md)
+[英文文档](https://github.com/tianyazc/gaping)
 
-## Install ↯↯↯
-### Compile and install
+## 安装 ↯↯↯
+### 编译安装
   - Golang 1.11 or Golang 1.12
 ```
 git clone https://github.com/tianyazc/gaping.git && cd gaping && export GO111MODULE=on go build
 ```
 
-### Release Download
+### 二进制文件下载
 Download form [**Release**](https://github.com/tianyazc/gaping/releases/tag/0.1)
 
-## Usage ↯↯↯
+## 使用 ↯↯↯
 
 ```
 $ ./gaping_darwin_amd64 -h
@@ -32,9 +32,9 @@ Usage of ./gaping_darwin_amd64:
   -v	Show Version and exit
 ```
 
-## Example ↯↯↯
+## 举个例子 ↯↯↯
 
-- always ping
+- 一直ping
 
 ```
 $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80
@@ -51,7 +51,7 @@ $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80
 2019-03-20 17:25:10 Connected to 115.239.210.27:80: time=12.01ms protocol=TCP port=80
 2019-03-20 17:25:11 Connected to 115.239.210.27:80: time=11.086ms protocol=TCP port=80
 ```
-- ping once
+- ping 一次
 ```
 $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80 -c 1
 2019-03-20 17:27:16 Connected to 115.239.210.27:80: time=13.396ms protocol=TCP port=80
