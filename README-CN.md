@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tianyazc/gaping.svg?branch=master)](https://github.com/tianyazc/gaping)
 
-[英文](https://github.com/tianyazc/gaping)
+[English](https://github.com/tianyazc/gaping)
 
 ## 安装 ↯↯↯
 ### 编译安装
