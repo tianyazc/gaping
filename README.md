@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tianyazc/gaping.svg?branch=master)](https://github.com/tianyazc/gaping)
 
-[中文文档](https://github.com/tianyazc/gaping/README-CN.md)
+[中文](https://github.com/tianyazc/gaping/blob/master/README-CN.md)
 
 ## Install ↯↯↯
 ### Compile and install
