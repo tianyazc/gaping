@@ -1,5 +1,6 @@
 # Gaping ---  A remote host port stability test tool inspired by paping
 
+[![Build Status](https://travis-ci.org/tianyazc/gaping.svg?branch=master)](https://github.com/tianyazc/gaping)
 
 ## Install ↯↯↯
 ### Compile and install
