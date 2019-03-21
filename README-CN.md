@@ -10,7 +10,7 @@
 ## 安装 ↯↯↯
 ### 编译安装
   - Golang 1.11 or Golang 1.12
-```
+```bash
 git clone https://github.com/tianyazc/gaping.git && cd gaping && export GO111MODULE=on go build
 ```
 
@@ -19,7 +19,7 @@ Download form [**Release**](https://github.com/tianyazc/gaping/releases/tag/0.1)
 
 ## 使用 ↯↯↯
 
-```
+```bash
 $ ./gaping_darwin_amd64 -h
 flag needs an argument: -h
 Usage of ./gaping_darwin_amd64:
@@ -39,7 +39,7 @@ Usage of ./gaping_darwin_amd64:
 
 - 一直ping
 
-```
+```bash
 $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80
 2019-03-20 17:25:00 Connected to 115.239.210.27:80: time=10.505ms protocol=TCP port=80
 2019-03-20 17:25:01 Connected to 115.239.210.27:80: time=11.18ms protocol=TCP port=80
@@ -55,7 +55,7 @@ $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80
 2019-03-20 17:25:11 Connected to 115.239.210.27:80: time=11.086ms protocol=TCP port=80
 ```
 - ping 一次
-```
+```bash
 $ ./gaping_darwin_amd64 -h 115.239.210.27 -p 80 -c 1
 2019-03-20 17:27:16 Connected to 115.239.210.27:80: time=13.396ms protocol=TCP port=80
 ```
