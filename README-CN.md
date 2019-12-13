@@ -5,8 +5,7 @@
 
 [English](https://github.com/tianyazc/gaping)
 
-![]( http://img.chulinx.xyz/termtosvg_wvabfoi8.svg)
-
+![](https://raw.githubusercontent.com/chulinx/imgs/master/2019-12-13-16.19.19.gif)
 
 ## 安装 ↯↯↯
 ### 编译安装

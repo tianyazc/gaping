@@ -4,7 +4,7 @@
 
 [中文](https://github.com/tianyazc/gaping/blob/master/README-CN.md)
 
-![](https://raw.githubusercontent.com/chulinx/imgs/master/termtosvg_hze2rbop.svg)
+![](https://raw.githubusercontent.com/chulinx/imgs/master/2019-12-13-16.19.19.gif)
 
 
 ## Install ↯↯↯
